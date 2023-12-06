@@ -19,7 +19,7 @@ Familas que quieran introducir nuevos sabores.
 
 Participantes:
 
-Álvaro Sanchez
+
 
 Nahuel Mémoli
 
@@ -29,3 +29,4 @@ Damián Mora
 
 Iván Segal
 
+Alvaro Sanchez
